@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Mahathir-ali
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on ...
+-  Hi, I’m @Mahathir-ali
+-  I’m interested in programming 
+-  React Devoloper
+-  Junior Full-Stack Devoloper
 - 📫 How to reach me mahathirsabri77@gmail.com 
 
 <!---
